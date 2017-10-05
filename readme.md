@@ -16,6 +16,8 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
+*You can also reach out to me on [Twitter](https://twitter.com/mikeplis) if you'd prefer to ask your question in private, but just know that I'm likely to give more in-depth answers on a public medium like this.*
+
 ### Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
